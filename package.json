@@ -14,7 +14,7 @@
     "@types/node": "^12.12.21",
     "apollo-server": "^2.9.14",
     "apollo-server-express": "^2.9.14",
-    "apollo-server-koa": "^2.9.14",
+    "apollo-server-koa": "^2.14.2",
     "casual-browserify": "^1.5.19-2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
